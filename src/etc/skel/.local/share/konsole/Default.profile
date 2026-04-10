@@ -9,7 +9,7 @@ StartInCurrentDir=false
 
 [Appearance]
 ColorScheme=DarkPastels
-Font=JetBrainsMono Nerd Font,12,-1,5,50,0,0,0,0,0,Regular
+Font=JetBrainsMono Nerd Font,10,-1,5,50,0,0,0,0,0,Regular
 
 [Background]
 Color=0,0,0
