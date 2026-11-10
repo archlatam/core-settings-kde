@@ -1,7 +1,7 @@
 # Maintainer: Archlatam <corelinuxx@mail>
 
 pkgname=core-settings-kde
-pkgver=r8.d72e88b
+pkgver=r10.a5a533b
 pkgrel=1
 pkgdesc="Configuración base de KDE de Arch Latam (instalada en /etc/skel)"
 arch=('any')
