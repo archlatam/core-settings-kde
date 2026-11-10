@@ -3,7 +3,7 @@
 
 pkgname=core-settings-kde
 pkgver=r0.0000000
-pkgrel=1
+pkgrel=2
 pkgdesc="Configuración base de KDE de Arch Latam (instalada en /etc/skel)"
 arch=('any')
 url="https://github.com/archlatam/core-settings-kde"
