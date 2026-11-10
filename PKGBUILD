@@ -1,13 +1,13 @@
 # Maintainer: Archlatam <corelinuxx@mail>
 
 pkgname=core-settings-kde
-pkgver=r10.a5a533b
+pkgver=r12.ccff201
 pkgrel=1
 pkgdesc="Configuración base de KDE de Arch Latam (instalada en /etc/skel)"
 arch=('any')
 url="https://github.com/archlatam/core-settings-kde"
 license=('GPL-3.0-only')
-depends=()
+depends=('imagemagick')
 optdepends=('dolphin: configuración de dolphinrc'
   'konsole: perfiles y esquema de colores de Konsole'
   'fastfetch: config.jsonc para fastfetch')
